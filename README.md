@@ -10,7 +10,7 @@ J'ai implementé 2 différents models:
 
 J'ai entrainé mes modeles avec les dimensions geometrique des vrais billets.
 
-<img alt="MySQL" width="60%" src="./data/header.png" style="padding-right:10px;" />
+<img alt="MySQL" width="60%" src="./header.png" style="padding-right:10px;" />
 
 You can try the Logistic Regression model with this [Frontend App](https://alhasdata-fakenotes-dectector-main-ff5ra5.streamlitapp.com/) created with **Streamlit**
 
