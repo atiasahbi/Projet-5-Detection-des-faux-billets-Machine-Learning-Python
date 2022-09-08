@@ -19,9 +19,11 @@ J'ai utilisé **une regression Lineaire pour prevoir les valeurs manquantes**.
 
 J'ai utilisé **PCA pour reduire les dimensions, explorer et comprendre la data**.
 
+<img alt="MySQL" width="40%" src="./PCA.png" style="padding-right:10px;" />
+
 ### KMeans model
 
-<img alt="MySQL" width="40%" src="./data/kmeans_report.png" style="padding-right:10px;" />
+<img alt="MySQL" width="40%" src="./KMeans.png" style="padding-right:10px;" />
 
 ### Logistic Regression model
 
