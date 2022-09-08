@@ -12,19 +12,13 @@ J'ai entrainé mes modeles avec les dimensions geometrique des vrais billets.
 
 <img alt="MySQL" width="60%" src="./header.png" style="padding-right:10px;" />
 
-You can try the Logistic Regression model with this [Frontend App](https://alhasdata-fakenotes-dectector-main-ff5ra5.streamlitapp.com/) created with **Streamlit**
-
-
-
-
-
-### Pre-processing
+### Préparation des données
 
 <img alt="MySQL" width="40%" src="./data/infos.png" style="padding-right:10px;" />
 
-We used **Linear Regression to predict missing values**.
+J'ai utilisé **une regression Lineaire pour prevoir les valeurs manquantes**.
 
-We used a **PCA to reduce dimensions, explore and understand data**.
+J'ai utilisé **PCA pour reduire les dimensions, explorer et comprendre la data**.
 
 ### KMeans model
 
