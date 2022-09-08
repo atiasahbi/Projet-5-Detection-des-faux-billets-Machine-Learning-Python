@@ -29,7 +29,6 @@ J'ai utilisé **PCA pour reduire les dimensions, explorer et comprendre la data*
 ### Logistic Regression model
 
 <img alt="MySQL" width="40%" src="./matrice.PNG" style="padding-right:10px;" />
-<img alt="MySQL" width="20%" src="./data/reglog_score.png" style="padding-right:10px;" />
 
 ### Application de test 
 
