@@ -1,14 +1,14 @@
 
 ## Solution contre le contrefaçon avec Machine Learning :
 
-Dans ce [Project](./Projet_5.py), je vais construire une banque de solution pour la contrefaçon
+Dans ce [Project](./Projet_5.py), je vais construire une banque de solution pour la contrefaçon des monnaies 
 
 J'ai implementé 2 différents models:
 
 - 1 Model supervisé machine learning : **Logistic Regression**
 - 1 Model non supervisé : **KMeans**
 
-J'ai entrainé les modeles avec les dimensions geometrique des billets.
+J'ai entrainé mes modeles avec les dimensions geometrique des vrais billets.
 
 <img alt="MySQL" width="60%" src="./data/header.png" style="padding-right:10px;" />
 
