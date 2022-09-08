@@ -15,7 +15,7 @@ J'ai entrainé mes modeles avec les dimensions geometrique des vrais billets.
 You can try the Logistic Regression model with this [Frontend App](https://alhasdata-fakenotes-dectector-main-ff5ra5.streamlitapp.com/) created with **Streamlit**
 
 
-#
+
 
 
 ### Pre-processing
