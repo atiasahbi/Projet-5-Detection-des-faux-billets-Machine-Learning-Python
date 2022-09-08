@@ -31,28 +31,6 @@ J'ai utilisé **PCA pour reduire les dimensions, explorer et comprendre la data*
 <img alt="MySQL" width="40%" src="./matrice.PNG" style="padding-right:10px;" />
 <img alt="MySQL" width="20%" src="./data/reglog_score.png" style="padding-right:10px;" />
 
-### Frontend application
+### Application de test 
 
-We create a [Frontend App](https://alhasdata-fakenotes-dectector-main-ff5ra5.streamlitapp.com/) with **Streamlit** to test the logistic regression model.
-
-#
-
-
-### Tools that we used 
-
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="45px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/sklearn.png" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="45px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/spark.png" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="40px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/streamlit2.png" style="padding-right:10px;" />
-
-<img align="left" alt="MySQL" width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+Après j'ai créé un algorithme pour charger et tester des jeux des données
