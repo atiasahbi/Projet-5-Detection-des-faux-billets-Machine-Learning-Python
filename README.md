@@ -1,7 +1,7 @@
 
 ## Solution contre le contrefaçon avec Machine Learning :
 
-Danc ce [Project](./Projet_10.ipynb), je vais construire une banque de solution pour la contrefaçon
+Danc ce [Project](./Projet_5.py), je vais construire une banque de solution pour la contrefaçon
 
 We implemented 2 different models:
 - 1 Supervised machine learning model : **Logistic Regression**
