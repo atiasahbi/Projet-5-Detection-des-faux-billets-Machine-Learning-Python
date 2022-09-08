@@ -14,7 +14,7 @@ J'ai entrainé mes modeles avec les dimensions geometrique des vrais billets.
 
 ### Préparation des données
 
-<img alt="MySQL" width="40%" src="./data/infos.png" style="padding-right:10px;" />
+<img alt="MySQL" width="40%" src="./preprocessing" style="padding-right:10px;" />
 
 J'ai utilisé **une regression Lineaire pour prevoir les valeurs manquantes**.
 
