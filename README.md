@@ -30,6 +30,6 @@ J'ai utilisé **PCA pour reduire les dimensions, explorer et comprendre la data*
 
 <img alt="MySQL" width="40%" src="./matrice.PNG" style="padding-right:10px;" />
 
-### Application de test 
+### Application de test :
 
-Après j'ai créé un algorithme pour charger et tester des jeux des données
+Après j'ai créé un algorithme pour charger et tester des jeux des données 
